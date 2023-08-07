@@ -1,0 +1,6 @@
+# Created at 2023-08-02T13:21:19.695
+Error: Could not find or load main class 							-Dcucumber.options=--plugin 							io.qameta.allure.cucumber4jvm.AllureCucumber4Jvm
+
+# Created at 2023-08-02T13:21:19.696
+Caused by: java.lang.ClassNotFoundException: 							-Dcucumber.options=--plugin 							io.qameta.allure.cucumber4jvm.AllureCucumber4Jvm
+
